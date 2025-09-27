@@ -7,18 +7,6 @@ I am a Data Analyst with experience in research, data analysis, and information 
 
 ---
 
-## 🛠️ Tech Stack  
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)   
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-
----
-
 ## 🚀 What I’m working on  
 - Building projects in **Data Analysis and Visualization** with Python, SQL, and Power BI.  
 
@@ -32,13 +20,20 @@ I am a Data Analyst with experience in research, data analysis, and information 
 - Improving my skills in **Machine Learning** and **Cloud Data Platforms**.  
 
 ## 💬 Ask me about  
-- **Career transition to Data Science**, SQL, Power BI, and Python for Data Analysis.  
+- **Career transition to Data Science**, SQL, Power BI, and Python for Data Analysis.
 
 ---
 
-## 🌐 Connect with me  
+## 🛠️ Tech Stack  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophialouiserdl)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)   
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+
 
 ---
 
@@ -46,6 +41,11 @@ I am a Data Analyst with experience in research, data analysis, and information 
 
 ![Sophia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sophialouiserdl&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophialouiserdl&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sophialouiserdl&theme=tokyonight)  
+
+---
+
+## 🌐 Connect with me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophialouiserdl)  
 
 ---
