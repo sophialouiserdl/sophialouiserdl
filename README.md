@@ -48,9 +48,11 @@ I am a Data Analyst with experience in research, data analysis, and information 
 A proof-of-concept demonstrating a secure, cost-effective local AI architecture. This project uses DeepSeek-R1, Ollama, and Streamlit to build a fully private, high-performance conversational tool.
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/sophialouiserd/mon-cher-chat/main/assets/demo_chat.jpg" alt="Mon Cher Chat" width="700"/>
+    <img src="https://raw.githubusercontent.com/sophialouiserdl/mon-cher-chat/main/assets/demo_chat.jpg" alt="Mon Cher Chat 🐱" width="700"/>
 </p>
 
-[**VIEW THE FULL REPOSITORY HERE**](https://github.com/sophialouiserd/mon-cher-chat)
+<p align="center">
+    <b><a href="https://github.com/sophialouiserdl/mon-cher-chat">VIEW THE FULL REPOSITORY HERE</a></b>
+</p>
 
 ---
