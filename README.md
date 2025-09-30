@@ -42,3 +42,10 @@ I am a Data Analyst with experience in research, data analysis, and information 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophialouiserdl)  
 
 ---
+
+### 💡 Featured Project: Mon Cher Chat - Private LLM Deployment
+A proof-of-concept demonstrating a secure, cost-effective local AI architecture. This project uses DeepSeek-R1, Ollama, and Streamlit to build a fully private, high-performance conversational tool.
+
+[**VIEW THE FULL REPOSITORY HERE**](https://github.com/sophialouiserd/mon-cher-chat)
+
+---
