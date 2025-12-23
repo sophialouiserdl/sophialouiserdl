@@ -1,9 +1,9 @@
-# Hi, I'm Sophia Louise 👋 🇧🇷 
+# Hi, I'm Sophia Louise 👋  
 
 ## Data Analyst | Python | SQL | Power BI | Data Visualization  
 
 ### About Me  
-I am a Data Analyst with experience in research, data analysis, and information structuring. My background in History gave me a critical perspective for interpreting data, deriving insights, and building meaningful narratives. Currently, I am pursuing a Bachelor's degree in Data Science and developing projects with Python, SQL, and Power BI to transform complex information into strategic insights.  
+I am a brazilian Data Analyst with experience in research, data analysis, and information structuring. My background in History gave me a critical perspective for interpreting data, deriving insights, and building meaningful narratives. Currently, I am pursuing a Bachelor's degree in Data Science and developing projects with Python, SQL, and Power BI to transform complex information into strategic insights.  
 
 ---
 
