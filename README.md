@@ -1,4 +1,4 @@
-# Hi, I'm Sophia Louise 👋  
+# Hi, I'm Sophia Louise 
 
 ## Data Analyst | Python | SQL | Power BI | Data Visualization  
 
@@ -7,16 +7,16 @@ I am a brazilian Data Analyst with experience in research, data analysis, and in
 
 ---
 
-## 🎯 What I’m working on  
+## > What I’m working on  
 - Building projects in **Data Analysis and Visualization** with Python, SQL, and Power BI.  
 
-## 🎯 What I’m currently learning  
+## > What I’m currently learning  
 - **Big Data**, **Data Engineering**, and **AI applied to business**.  
 
-## 🎯 I want to collaborate on  
+## > I want to collaborate on  
 - Data Science, BI, and Data Analytics projects with **social impact and education focus**.  
 
-## 🎯 I’m looking for help with  
+## > I’m looking for help with  
 - Improving my skills in **Machine Learning** and **Cloud Data Platforms**.  
 
 ## 💬 Ask me about  
@@ -24,7 +24,7 @@ I am a brazilian Data Analyst with experience in research, data analysis, and in
 
 ---
 
-## 🛠️ Tech Stack  
+## > Tech Stack  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -37,7 +37,7 @@ I am a brazilian Data Analyst with experience in research, data analysis, and in
 
 ---
 
-## 🌐 Connect with me  
+## > Connect with me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophialouiserdl)  
 
