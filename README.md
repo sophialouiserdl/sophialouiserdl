@@ -1,58 +1,60 @@
-# Hi, I'm Sophia Louise 
+# `sophia_louise.ds` 
+**Data Science | Machine Learning | Financial Markets**
 
-## Data Analyst | Python | SQL | Power BI | Data Visualization  
-
-### About Me  
-I am a brazilian Data Analyst with experience in research, data analysis, and information structuring. My background in History gave me a critical perspective for interpreting data, deriving insights, and building meaningful narratives. Currently, I am pursuing a Bachelor's degree in Data Science and developing projects with Python, SQL, and Power BI to transform complex information into strategic insights.  
+> *Deciphering complex patterns to build strategic intelligence.*
 
 ---
 
-## > What I’m working on  
-- Building projects in **Data Analysis and Visualization** with Python, SQL, and Power BI.  
+### 01. PROFILE
+Data Scientist in training with a background in analytical synthesis. Leveraging a strategic foundation in History to provide critical perspective on complex data, I focus on building predictive models and AI architectures applied to market decision-making.
 
-## > What I’m currently learning  
-- **Big Data**, **Data Engineering**, and **AI applied to business**.  
-
-## > I want to collaborate on  
-- Data Science, BI, and Data Analytics projects with **social impact and education focus**.  
-
-## > I’m looking for help with  
-- Improving my skills in **Machine Learning** and **Cloud Data Platforms**.  
-
-## 💬 Ask me about  
-- **Career transition to Data Science**, SQL, Power BI, and Python for Data Analysis.
+* B.S. in **Data Science**
+* Focus: **Quantitative Analysis** & **Algorithmic Modeling**
+* Experience: **Financial Data Structuring** & **Private LLM Deployments**
 
 ---
 
-## > Tech Stack  
+### 02. TECH STACK
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)   
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-
-
----
-
-## > Connect with me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophialouiserdl)  
-
----
-
-### 💡 Featured Project: Mon Cher Chat - Private LLM Deployment
-
-A proof-of-concept demonstrating a secure, cost-effective local AI architecture. This project uses DeepSeek-R1, Ollama, and Streamlit to build a fully private, high-performance conversational tool.
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sophialouiserdl/mon-cher-chat/main/assets/demo_chat.jpg" alt="Mon Cher Chat 🐱" width="700"/>
+`Analysis & Modeling`
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
 </p>
 
-<p align="center">
-    <b><a href="https://github.com/sophialouiserdl/mon-cher-chat">VIEW THE FULL REPOSITORY HERE</a></b>
+`Business Intelligence & AI`
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+---
+
+### 03. CURRENT FOCUS
+* **Building:** Predictive algorithms for financial market analysis.
+* **Researching:** Private AI architectures (Ollama/DeepSeek) and Big Data scalability.
+* **Improving:** Advanced Machine Learning and Cloud Data Platforms.
+
+---
+
+### 04. FEATURED PROJECT: MON CHER CHAT
+**Private LLM Deployment** | *Security & High Performance*
+A secure, local AI architecture proof-of-concept. Built with **DeepSeek-R1**, **Ollama**, and **Streamlit** to ensure data privacy and corporate-grade conversational performance.
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/sophialouiserdl/mon-cher-chat/main/assets/demo_chat.jpg" alt="Mon Cher Chat" width="600" />
+    <br>
+    <b><a href="https://github.com/sophialouiserdl/mon-cher-chat">[ VIEW REPOSITORY ]</a></b>
+</p>
+
+---
+
+### 05. CONTACT
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophialouiserdl)
 
 ---
